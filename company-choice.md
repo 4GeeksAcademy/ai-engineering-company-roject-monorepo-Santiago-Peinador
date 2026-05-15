@@ -5,6 +5,12 @@ Elegí HealthCore porque su entorno internacional genera volúmenes masivos de d
 Me permitirá diseñar un Data Lakehouse desde cero para unificar sistemas médicos fragmentados en dos países.
 Implementar analítica predictiva para predecir inasistencias de pacientes supone un reto de Big Data real.
 
+##Depaertamentos reales: 
+
+1.-Departamento de Experiencia del Paciente y Acceso: Me motiva el reto de usar analítica predictiva para sincronizar la logística clínica con la vida real, eliminando tiempos muertos y optimizando el servicio.
+
+2.-Departamento de Ciclo de Ingresos y Facturación: Permite aplicar Big Data directamente sobre la rentabilidad, transformando procesos financieros caóticos en flujos de caja predecibles y eficientes.
+
 ##Mi idea de Agente de IA
 
 ###Agente de operaciones y logística de pacientes
@@ -21,3 +27,4 @@ Implementar analítica predictiva para predecir inasistencias de pacientes supon
 -Para funcionar, solo necesita leer los datos del paciente, los códigos de la consulta y el historial de reglas que las aseguradoras han usado para pagar anteriormente.
 -Esto desencadenaría un flujo de cobros sin errores, logrando que el dinero de los seguros llegue a la empresa de forma mucho más rápida y constante.
 
+(PD: En el documento de HealtCore no habia departamentos definidos ni sus problemas, por lo cual vi la opcion de elegirlos yo.)
